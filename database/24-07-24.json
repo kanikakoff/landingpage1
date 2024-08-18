@@ -1,0 +1,258 @@
+{
+  "data": {
+    "Blogs": {
+      "Blog1": {
+        "href": "https://dawnsaju.hashnode.dev/everything-you-need-to-know-about-the-basics-of-python",
+        "link": "https://cdn.hashnode.com/res/hashnode/image/upload/v1674410444007/c0c84ee7-47bb-430a-a58d-14a9f8e7d8b5.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+        "tag": "Python",
+        "text": "Python Basics"
+      },
+      "Blog2": {
+        "href": "https://dawnsaju.hashnode.dev/a-guide-to-the-basics-of-html",
+        "link": "https://cdn.hashnode.com/res/hashnode/image/upload/v1674414467040/d7d595b8-4a8b-4828-a87f-005eaffb2a77.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+        "tag": "HTML",
+        "text": "HTML Basics"
+      }
+    },
+    "Certificates": {
+      "Cert_1": {
+        "description": "I proudly secured first place in the \"Code Every Step's December 2021 Coding Competition,\" demonstrating my exceptional coding skills and dedication to the field.",
+        "height": "default",
+        "link": "https://dawn-portfolio.netlify.app/images/certificates/CodeEveryStep.png",
+        "text": "CodeEveryStep"
+      },
+      "Cert_2": {
+        "description": "I placed second in the \"CodeBeans Coding Contest\" as the RunnerUp!",
+        "height": "default",
+        "link": "https://dawn-portfolio.netlify.app/images/certificates/CodeBeans.png",
+        "text": "Codebeans"
+      },
+      "Cert_3": {
+        "description": "I emerged victorious in the \"Get A Gift From Santa Web Design Category Contest,\" claiming the title of winner!",
+        "height": "default",
+        "link": "https://dawn-portfolio.netlify.app/images/certificates/CyberSquare.png",
+        "text": "CyberSquare"
+      },
+      "Cert_4": {
+        "description": "I was fortunate enough to have the opportunity to present my project at the Expo2020 Terra Pavilion, where I was able to showcase my work to a global audience",
+        "height": "default",
+        "link": "https://dawn-portfolio.netlify.app/images/certificates/Expo2020.jpg",
+        "ribbon": true,
+        "text": "Expo 2020 Young Innovators"
+      },
+      "Cert_5": {
+        "description": "I'm one of the Top 50 in my country to complete http://NETFILMS.TECH in #BreakTheCode2!",
+        "height": "default",
+        "link": "https://cdn.btc2.tech/share-cards/mission/net/50.jpg",
+        "ribbon": true,
+        "text": "BreakTheCode2"
+      },
+      "Cert_6": {
+        "description": "I'm one of the Top 20 on the Asia Continent to complete SERVER CONTROL in #BreakTheCode2",
+        "height": "default",
+        "link": "https://cdn.btc2.tech/share-cards/mission/ser/continent/as.jpg",
+        "ribbon": true,
+        "text": "BreakTheCode2"
+      },
+      "Cert_7": {
+        "description": "MakeX Robotics Competition UAE National Runner Up",
+        "height": "full",
+        "link": "https://dawn-portfolio.netlify.app/images/certificates/MakeX%20UAE%20National.jpg",
+        "ribbon": true,
+        "text": "Mubarmij50"
+      },
+      "Cert_8": {
+        "description": "Had the opportunity to participate in a leading App Olympics competition hosted by Dubai Chamber",
+        "link": "https://dawn-portfolio.netlify.app/images/certificates/DCDE%20App%20Olympics.png",
+        "redirect": "https://www.mediaoffice.ae/en/news/2023/October/15-10/Dubai-Chamber-of-Digital-Economy-launches-App-Olympics",
+        "ribbon": true,
+        "tag": "Mobile App",
+        "target": "blank",
+        "text": "Dubai Chamber App Olympics"
+      },
+      "Cert_9": {
+        "description": "Successfully completed nearly 10 weeks of practices, including nine problems sets and 1 final project.",
+        "height": "default",
+        "link": "https://dawn-portfolio.netlify.app/images/certificates/CS50P.png",
+        "ribbon": true,
+        "text": "Harvard University CS50"
+      }
+    },
+    "Certificates_Count": 45,
+    "Collaborations": {
+      "Collab1": {
+        "href": "#",
+        "icon": "fa fa-youtube-play",
+        "link": "https://dawn-portfolio.netlify.app/images/Proxlight.png",
+        "tag": "Proxlight",
+        "text": "Proxlight"
+      }
+    },
+    "Competitions_Count": "50",
+    "Projects": {
+      "project_1": {
+        "id": "project_1",
+        "link": "https://dawn-portfolio.netlify.app/images/illustrations/Robert.png",
+        "redirect": "https://github.com/Champions-clan/Robert-Assistant",
+        "tag": "Python Desktop App",
+        "target": "blank",
+        "text": "Robert Your Virtual Assistant"
+      },
+      "project_2": {
+        "id": "project_2",
+        "link": "https://dawn-portfolio.netlify.app/images/illustrations/Lorbbi.png",
+        "redirect": "#",
+        "tag": "Arduino Robot",
+        "target": "_parent",
+        "text": "Lorbbi The Multifunctional Robot"
+      },
+      "project_3": {
+        "id": "project_3",
+        "link": "https://dawn-portfolio.netlify.app/images/Expo.png",
+        "redirect": "#",
+        "tag": "   ",
+        "target": "_parent",
+        "text": "Expo 2020 Young Innovators Recognition"
+      },
+      "project_4": {
+        "id": "project_4",
+        "link": "https://i.imgur.com/dTpmrI5.jpg",
+        "redirect": "https://makex.cc/en",
+        "tag": "Robotics Competition",
+        "target": "blank",
+        "text": "MakeX Robotics Competition National"
+      },
+      "project_5": {
+        "id": "project_5",
+        "link": "https://dawn-portfolio.netlify.app/images/Fitlife.png",
+        "redirect": "#",
+        "tag": "Website / App",
+        "target": "_parent",
+        "text": "FitLife"
+      },
+      "project_7": {
+        "link": "https://dawn-portfolio.netlify.app/images/DCDE.png",
+        "redirect": "https://media.discordapp.net/attachments/1046424852921323522/1187013212814712932/App_Olympics_Dawn_Saju_Participant_Badge_.png?ex=65955733&is=6582e233&hm=01f76a7dacca80bc850c2d45b8d2023e554af9159d72646330b62f80d3cfbbd8&=&format=webp&quality=lossless&width=592&height=592",
+        "tag": "App",
+        "text": "Dubai App Olympics"
+      },
+      "project_8": {
+        "id": "project_8",
+        "link": "https://dawn-portfolio.netlify.app/images/NeoLink.png",
+        "redirect": "https://www.behance.net/gallery/188021443/Neolink-App-for-UIUX-Designers-UIUX-Casestudy",
+        "tag": "Prototype",
+        "target": "blank",
+        "text": "NeoLink"
+      }
+    },
+    "Stats": {
+      "Python": {
+        "color": "#FFD15C",
+        "text": "Python Programming",
+        "value": "99"
+      },
+      "UI Design": {
+        "color": "#FF4C60",
+        "text": "UI Design",
+        "value": "90"
+      },
+      "Web Development": {
+        "color": "#6C6CE5",
+        "text": "Web Development",
+        "value": "98"
+      }
+    },
+    "Testimonials": {
+      "Testimonial1": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Byakkoseikyo",
+        "name": "Byakkoseikyo",
+        "text": "Recommended"
+      },
+      "Testimonial10": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Dafcjim",
+        "name": "Dafcjim",
+        "text": "Thank you great work"
+      },
+      "Testimonial11": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Danielbenjam717",
+        "name": "Danielbenjam717",
+        "text": "Love it work as requested and delivered early. fantastic. I asked, I received! thanks so much my friend it's massively appreciated"
+      },
+      "Testimonial12": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Zachstef",
+        "name": "Zachstef",
+        "text": "Very quick and responsive. Would do work again with"
+      },
+      "Testimonial13": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Yaroslavius",
+        "name": "Yaroslavius",
+        "text": "If anyone is looking for a Professional web dev with no scam. I would recommend to go with Dawn Saju. He charged an extremely nominal fee for my project and did it within a day. He was also extremely responsive during the whole process, always asking questions and giving me more suggestions. He is hand's down one of the best sellers I have encountered on this server and I will personally do all my projects via him from now on. Thanks a lot mate 🥂. "
+      },
+      "Testimonial14": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Yaroslavius",
+        "name": "Yaroslavius",
+        "text": "I'd again like to recommend that if you're looking for a Web dev, you should hands down go with Dawn Saju I have ordered from him twice and he never disappoints. In my opinion he's one of the best devs on this server and I would personally do all my projects with him."
+      },
+      "Testimonial15": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=in5omaniac",
+        "name": "in5omaniac",
+        "text": "Very good at creating just what I asked for, would recommend"
+      },
+      "Testimonial2": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Pmkwan",
+        "name": "Pmkwan",
+        "text": "Fast delivery and great work"
+      },
+      "Testimonial3": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Iam_ahk",
+        "name": "Iam_ahk",
+        "text": "Best Seller will buy again definitely"
+      },
+      "Testimonial4": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Josegalvan22",
+        "name": "Josegalvan22",
+        "text": "Great communication between us and he made sure that everything was done as per my request and quickly made any corrections as needed."
+      },
+      "Testimonial5": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Lauranejloveanu",
+        "name": "Lauranejloveanu",
+        "text": "Very nice person, communicative and fast replier."
+      },
+      "Testimonial6": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Marijan_bajic",
+        "name": "Marijan_bajic",
+        "text": "Very good job, my recommendations!"
+      },
+      "Testimonial7": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Jarnel004",
+        "name": "Jarnel004",
+        "text": "Outstanding service, very good work!"
+      },
+      "Testimonial8": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Ethanhag",
+        "name": "Ethanhag",
+        "text": "Very fast and got what I ordered"
+      },
+      "Testimonial9": {
+        "href": "#",
+        "icon": "https://ui-avatars.com/api/?name=Kragsonofhorace",
+        "name": "Kragsonofhorace",
+        "text": "The seller dawnpro7 was very flexible with their work and easy to work with. They responded sometimes immediately and delivered exactly what I wanted on time. I would definitely work with them again. Thanks dawnpro7!"
+      }
+    }
+  }
+}
